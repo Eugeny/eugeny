@@ -2,4 +2,4 @@
 
 <img align=right src='https://github.githubassets.com/images/mona-whisper.gif'/>
 
-Right now I'm working on the [best terminal app in the world](https://github.com/Eugeny/terminus), and also build even better media management software at [@elements-storage](https://github.com/elements-storage)
+Right now I'm working on the [best terminal app in the world](https://github.com/Eugeny/tabby), and also build even better media management software at [@elements-storage](https://github.com/elements-storage)
